@@ -26,11 +26,8 @@ permalink: /
 * Code highlight with Rouge
 
 ```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-Something Important Here!
+# SKILLS
+Python | JavaScript | Java | SQL | C++ | STATA | R | SAS | Tableau | Linux | Machine Learning | Deep Learning | Natural Language Processing | Statistical Modeling | Data Visualization
 ```
 ## Download and Documentation
 
