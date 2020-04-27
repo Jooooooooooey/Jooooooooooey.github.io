@@ -28,7 +28,18 @@ permalink: /
 ```ruby
 # SKILLS
 Python | JavaScript | Java | SQL | C++ | STATA | R | SAS | Tableau | Linux | Machine Learning | Deep Learning | Natural Language Processing | Statistical Modeling | Data Analysis | Data Visualization
-```
+`
+## Education
+* Columbia University in the City of New York
+	* MA in Statistics
+	* 2017 - 2019
+* University of Colorado at Boulder
+	* BA, Double major in Mathematics and Economics
+	* Minor in Statistics
+	* 2013 - 2017
+	
+## Experience
+``
 ## Download and Documentation
 
 [**NLP project (Github)**](https://github.com/Jooooooooooey/NLP-Classification)
