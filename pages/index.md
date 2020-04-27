@@ -25,17 +25,21 @@ permalink: /
 
 * Code highlight with Rouge
 
+## SKILLS
 ```python
-# SKILLS
-Python | JavaScript | Java | SQL | C++ | STATA | R | SAS |Tableau |
+Python | JavaScript | Java | AngularJs | SQL | C++ | STATA | R | SAS |Tableau |
 Linux | Machine Learning | Deep Learning |Natural Language Processing |
 Statistical Modeling | Data Analysis | Data Visualization
-
-if(2013 < Year < 2017):
-	School = 'Columbia University'
-    Program = 'MA in Statistics'
 ```
 ## Education
+```python
+if (2017 < Year < 2019):
+	School = 'Columbia University in the City of New York'
+    Program = 'MA in Statistics'
+else if (2013 < Year < 2017):
+	School = 'University of Colorado at Boulder'
+    Program = 'BA in Mathematics' + 'BA in Economics' + 'Minor in Statistics'
+```
 * Columbia University in the City of New York
 	* MA in Statistics
 	* 2017 - 2019
