@@ -25,9 +25,15 @@ permalink: /
 
 * Code highlight with Rouge
 
-```ruby
+```python
 # SKILLS
-Python | JavaScript | Java | SQL | C++ | STATA | R | SAS | Tableau | Linux | Machine Learning | Deep Learning | Natural Language Processing | Statistical Modeling | Data Analysis | Data Visualization
+Python | JavaScript | Java | SQL | C++ | STATA | R | SAS |Tableau |
+Linux | Machine Learning | Deep Learning |Natural Language Processing | 
+Statistical Modeling | Data Analysis | Data Visualization
+
+if(2013 < Year < 2017):
+	School = 'Columbia University'
+    Program = 'MA in Statistics'
 ```
 ## Education
 * Columbia University in the City of New York
