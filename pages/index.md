@@ -27,7 +27,7 @@ permalink: /
 
 ```ruby
 # SKILLS
-Python | JavaScript | Java | SQL | C++ | STATA | R | SAS | Tableau | Linux | Machine Learning | Deep Learning | Natural Language Processing | Statistical Modeling | Data Visualization
+Python | JavaScript | Java | SQL | C++ | STATA | R | SAS | Tableau | Linux | Machine Learning | Deep Learning | Natural Language Processing | Statistical Modeling | Data Analysis | Data Visualization
 ```
 ## Download and Documentation
 
