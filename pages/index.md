@@ -11,9 +11,9 @@ encrypted_text: true
 permalink: /
 ---
 
-# PROJECT NEGYA - HACKER-STYLE PERSONAL HOMEPAGE
+# HUIYU(JOEY) ZHANG
 
-##  Features
+##  Summary
 * Highly customizable, content-oriented with The Matrix style
 * Eyesight-protection layout
 * Decrypt and encrypt text (access token: 233): 
@@ -23,10 +23,6 @@ permalink: /
   <p class="encrypted" id="G7D+0370pNmixIP1j7teCg1jtm9XCdOWYFH61lcM0LYWlT0hB3rS9raIs=">Encrypted content!</p>
 * LaTeX formula Support with MathJax
 
-$$
-NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!
-$$
-
 * Code highlight with Rouge
 
 ```ruby
@@ -34,8 +30,9 @@ $$
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
+Something Important Here!
 ```
 ## Download and Documentation
 
-[**pRoJEct NeGYa (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa)
+[**NLP project (Github)**](https://github.com/Jooooooooooey/NLP-Classification)
 
