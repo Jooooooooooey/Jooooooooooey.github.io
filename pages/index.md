@@ -50,7 +50,7 @@ permalink: /
 * location: San Diego, CA
 * jobDescription: empty
 
-<span style="color:#b4c013; font-size:21px"> Accathon Capital </span>
+<span style="color:#ffc547; font-size:21px"> Accathon Capital </span>
 * position: Software Development Intern
 * timeRange: September 2018 - December 2018
 * location: New York, NY
@@ -60,7 +60,7 @@ permalink: /
 	* Matched thousands of international tech startups with Chinese institutions by designing a matching algorithm
 	* Obtained valuable experience in handling complex computational and programming logic problems
 
-<span style="color:#b4c013; font-size:21px"> Xiaomi Technology </span>
+<span style="color:#ffc547; font-size:21px"> Xiaomi Technology </span>
 * position: Software Engineer Intern
 * timeRange: May 2018 - Aug 2018
 * location: Beijing, China
@@ -69,9 +69,6 @@ permalink: /
 	* Performed data pre-processing, data mining, and text mining utilizing Python packages (Numpy, Pandas, NLTK)
 	* Classified over 700,000+ users’ feedbacks (in both Chinese and English) into hundreds of labels by applying various deep learning models such as CNN, RNN+Attention, and Fasttext
 	* Achieved 81% of accuracy for the best model and 52% rate of coverage after ensembling all the models by voting
-
-
-## Download and Documentation
 
 [**NLP project (Github)**](https://github.com/Jooooooooooey/NLP-Classification)
 
