@@ -34,30 +34,23 @@ Statistical Modeling | Data Analysis | Data Visualization
 ## Education
 ```python
 
-if (year in range(2017, 2019)):
-	school = 'Columbia University in the City of New York'
-    	program = 'MA in Statistics'
-else if (year in range(2013, 2017)):
-	school = 'University of Colorado at Boulder'
-    	program = 'BA in Mathematics' + 'BA in Economics' + 'Minor in Statistics'
+ if (year in range(2017, 2019)):
+     school = 'Columbia University in the City of New York'
+         program = 'MA in Statistics'
+ else if (year in range(2013, 2017)):
+     school = 'University of Colorado at Boulder'
+         program = 'BA in Mathematics' + 'BA in Economics' + 'Minor in Statistics'
 
 ```
-* Columbia University in the City of New York
-	* MA in Statistics
-	* 2017 - 2019
-* University of Colorado at Boulder
-	* BA, Double major in Mathematics and Economics
-	* Minor in Statistics
-	* 2013 - 2017
 
-# Experience
-#### Qualcomm 
-* position - Programmer Analyst 
-* time - April 2019 - Present
-* location - San Diego, CA
-* jobDescription - empty
-    
-#### Accathon Capital
+## Experience
+<span style="color:#b4c013; font-size:21px"> Qualcomm </span>
+* position: Programmer Analyst
+* time:  April 2019 - Present
+* location: San Diego, CA
+* jobDescription: empty
+
+<span style="color:#b4c013; font-size:21px"> Accathon Capital </span>
 * position: Software Development Intern
 * timeRange: September 2018 - December 2018
 * location: New York, NY
@@ -67,8 +60,6 @@ else if (year in range(2013, 2017)):
 	* Matched thousands of international tech startups with Chinese institutions by designing a matching algorithm
 	* Obtained valuable experience in handling complex computational and programming logic problems
 
-
-<p style="text-align:right; color:red"> hahaha</p>
 
 ## Download and Documentation
 
