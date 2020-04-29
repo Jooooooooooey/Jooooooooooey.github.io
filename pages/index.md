@@ -49,20 +49,20 @@ else if (year in range(2013, 2017)):
 	* 2013 - 2017
 
 ## Experience
-###### Qualcomm
-	* position: Programmer Analyst 
-	* timeRange: April 2019 - Present
+#### Qualcomm 
+    position: Programmer Analyst 
+    timeRange: April 2019 - Present
     location: San Diego, CA
-    jobDescription = empty
-else if (company == 'Accathon Capital'):
-	position = 'Software Development Intern'
-    timeRange = 'September 2018 - December 2018'
-    location = 'New York, NY'
-    jobDescription = 
-    	'- Contributed to writing Python scripts to scrape data from LinkedIn, Hunter and Crunchbase by utilizing API calls and python packages (Numpy, Pandas, BeautifulSoup)
+    jobDescription: empty
+#### Accathon Capital
+	position: Software Development Intern
+    timeRange: September 2018 - December 2018
+    location: New York, NY
+    jobDescription: 
+    	- Contributed to writing Python scripts to scrape data from LinkedIn, Hunter and Crunchbase by utilizing API calls and python packages (Numpy, Pandas, BeautifulSoup)
 		- Developed software tools to automate various internal processes and data migration
 		- Matched thousands of international tech startups with Chinese institutions by designing a matching algorithm
-		- Obtained valuable experience in handling complex computational and programming logic problems'
+		- Obtained valuable experience in handling complex computational and programming logic problems
 
 ## Download and Documentation
 
