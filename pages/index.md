@@ -33,12 +33,12 @@ Statistical Modeling | Data Analysis | Data Visualization
 ```
 ## Education
 ```python
-if (Year in range(2017,2019)):
-	School = 'Columbia University in the City of New York'
-    	Program = 'MA in Statistics'
-else if (Year in range(2013,2017)):
-	School = 'University of Colorado at Boulder'
-    	Program = 'BA in Mathematics' + 'BA in Economics' + 'Minor in Statistics'
+if (year in range(2017, 2019)):
+	school = 'Columbia University in the City of New York'
+    	program = 'MA in Statistics'
+else if (year in range(2013, 2017)):
+	school = 'University of Colorado at Boulder'
+    	program = 'BA in Mathematics' + 'BA in Economics' + 'Minor in Statistics'
 ```
 * Columbia University in the City of New York
 	* MA in Statistics
@@ -50,7 +50,20 @@ else if (Year in range(2013,2017)):
 
 ## Experience
 ```python
-if (Company == 'Qualcomm Incor')
+if (company == 'Qualcomm'):
+	position = 'Programmer Analyst'
+    timeRange = 'April 2019 - Present'
+    location = 'San Diego, CA'
+    jobDescription = 'empty'
+else if (company == 'Accathon Capital'):
+	position = 'Software Development Intern'
+    timeRange = 'September 2018 - December 2018'
+    location = 'New York, NY'
+    jobDescription = 
+    	'- Contributed to writing Python scripts to scrape data from LinkedIn, Hunter and Crunchbase by utilizing API calls and python packages (Numpy, Pandas, BeautifulSoup)
+		- Developed software tools to automate various internal processes and data migration
+		- Matched thousands of international tech startups with Chinese institutions by designing a matching algorithm
+		- Obtained valuable experience in handling complex computational and programming logic problems'
 ```
 
 ## Download and Documentation
