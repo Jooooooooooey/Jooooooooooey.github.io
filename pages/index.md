@@ -21,24 +21,26 @@ permalink: /
   <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">Encrypted content!</p>
   * secret msg 2: 
   <p class="encrypted" id="G7D+0370pNmixIP1j7teCg1jtm9XCdOWYFH61lcM0LYWlT0hB3rS9raIs=">Encrypted content!</p>
-* LaTeX formula Support with MathJax
 
-* Code highlight with Rouge
 
 ## SKILLS
 ```python
+
 Python | JavaScript | Java | AngularJs | SQL | C++ | STATA | R | SAS |Tableau |
 Linux | Machine Learning | Deep Learning |Natural Language Processing |
 Statistical Modeling | Data Analysis | Data Visualization
+
 ```
 ## Education
 ```python
+
 if (year in range(2017, 2019)):
 	school = 'Columbia University in the City of New York'
     	program = 'MA in Statistics'
 else if (year in range(2013, 2017)):
 	school = 'University of Colorado at Boulder'
     	program = 'BA in Mathematics' + 'BA in Economics' + 'Minor in Statistics'
+
 ```
 * Columbia University in the City of New York
 	* MA in Statistics
@@ -64,6 +66,9 @@ else if (year in range(2013, 2017)):
 	* Developed software tools to automate various internal processes and data migration
 	* Matched thousands of international tech startups with Chinese institutions by designing a matching algorithm
 	* Obtained valuable experience in handling complex computational and programming logic problems
+
+
+<p style="text-align:right; color:red"> hahaha</p>
 
 ## Download and Documentation
 
