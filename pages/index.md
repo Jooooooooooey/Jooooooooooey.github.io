@@ -49,12 +49,11 @@ else if (year in range(2013, 2017)):
 	* 2013 - 2017
 
 ## Experience
-```python
-if (company == 'Qualcomm'):
-	position = 'Programmer Analyst'
-    timeRange = 'April 2019 - Present'
-    location = 'San Diego, CA'
-    jobDescription = 'empty'
+###### Qualcomm
+	* position: Programmer Analyst 
+	* timeRange: April 2019 - Present
+    location: San Diego, CA
+    jobDescription = empty
 else if (company == 'Accathon Capital'):
 	position = 'Software Development Intern'
     timeRange = 'September 2018 - December 2018'
@@ -64,7 +63,6 @@ else if (company == 'Accathon Capital'):
 		- Developed software tools to automate various internal processes and data migration
 		- Matched thousands of international tech startups with Chinese institutions by designing a matching algorithm
 		- Obtained valuable experience in handling complex computational and programming logic problems'
-```
 
 ## Download and Documentation
 
