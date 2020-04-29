@@ -35,10 +35,10 @@ Statistical Modeling | Data Analysis | Data Visualization
 ```python
 if (Year in range(2017,2019)):
 	School = 'Columbia University in the City of New York'
-    Program = 'MA in Statistics'
+    	Program = 'MA in Statistics'
 else if (Year in range(2013,2017)):
 	School = 'University of Colorado at Boulder'
-    Program = 'BA in Mathematics' + 'BA in Economics' + 'Minor in Statistics'
+    	Program = 'BA in Mathematics' + 'BA in Economics' + 'Minor in Statistics'
 ```
 * Columbia University in the City of New York
 	* MA in Statistics
@@ -49,6 +49,9 @@ else if (Year in range(2013,2017)):
 	* 2013 - 2017
 
 ## Experience
+```python
+if (Company == 'Qualcomm Incor')
+```
 
 ## Download and Documentation
 
