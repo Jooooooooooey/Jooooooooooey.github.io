@@ -44,7 +44,7 @@ permalink: /
 ```
 
 ## Experience
-<span style="color:#b4c013; font-size:21px"> Qualcomm </span>
+<span style="color:#ffc547; font-size:21px"> Qualcomm </span>
 * position: Programmer Analyst
 * time:  April 2019 - Present
 * location: San Diego, CA
@@ -59,6 +59,16 @@ permalink: /
 	* Developed software tools to automate various internal processes and data migration
 	* Matched thousands of international tech startups with Chinese institutions by designing a matching algorithm
 	* Obtained valuable experience in handling complex computational and programming logic problems
+
+<span style="color:#b4c013; font-size:21px"> Xiaomi Technology </span>
+* position: Software Engineer Intern
+* timeRange: May 2018 - Aug 2018
+* location: Beijing, China
+* jobDescription: 
+	* Utilized machine learning tools such as TensorFlow and Keras in the application of Natural Language Processing
+	* Performed data pre-processing, data mining, and text mining utilizing Python packages (Numpy, Pandas, NLTK)
+	* Classified over 700,000+ users’ feedbacks (in both Chinese and English) into hundreds of labels by applying various deep learning models such as CNN, RNN+Attention, and Fasttext
+	* Achieved 81% of accuracy for the best model and 52% rate of coverage after ensembling all the models by voting
 
 
 ## Download and Documentation
