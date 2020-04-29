@@ -25,13 +25,13 @@ permalink: /
 
 * Code highlight with Rouge
 
-# SKILLS
+## SKILLS
 ```python
 Python | JavaScript | Java | AngularJs | SQL | C++ | STATA | R | SAS |Tableau |
 Linux | Machine Learning | Deep Learning |Natural Language Processing |
 Statistical Modeling | Data Analysis | Data Visualization
 ```
-# Education
+## Education
 ```python
 if (year in range(2017, 2019)):
 	school = 'Columbia University in the City of New York'
@@ -50,21 +50,20 @@ else if (year in range(2013, 2017)):
 
 # Experience
 #### Qualcomm 
-    position: Programmer Analyst 
-    timeRange: April 2019 - Present
-    location: San Diego, CA
-    jobDescription: empty
+* position - Programmer Analyst 
+* time - April 2019 - Present
+* location - San Diego, CA
+* jobDescription - empty
     
-
 #### Accathon Capital
-	position: Software Development Intern
-    timeRange: September 2018 - December 2018
-    location: New York, NY
-    jobDescription: 
-    	- Contributed to writing Python scripts to scrape data from LinkedIn, Hunter and Crunchbase by utilizing API calls and python packages (Numpy, Pandas, BeautifulSoup)
-		- Developed software tools to automate various internal processes and data migration
-		- Matched thousands of international tech startups with Chinese institutions by designing a matching algorithm
-		- Obtained valuable experience in handling complex computational and programming logic problems
+* position: Software Development Intern
+* timeRange: September 2018 - December 2018
+* location: New York, NY
+* jobDescription:
+	* Contributed to writing Python scripts to scrape data from LinkedIn, Hunter and Crunchbase by utilizing API calls and python packages (Numpy, Pandas, BeautifulSoup)
+	* Developed software tools to automate various internal processes and data migration
+	* Matched thousands of international tech startups with Chinese institutions by designing a matching algorithm
+	* Obtained valuable experience in handling complex computational and programming logic problems
 
 ## Download and Documentation
 
