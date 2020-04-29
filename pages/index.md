@@ -33,12 +33,12 @@ Statistical Modeling | Data Analysis | Data Visualization
 ```
 ## Education
 ```python
-	if (2017 < Year < 2019):
+if (Year in range(2017,2019)):
 	School = 'Columbia University in the City of New York'
-    	Program = 'MA in Statistics'
-	else if (2013 < Year < 2017):
+    Program = 'MA in Statistics'
+else if (Year in range(2013,2017)):
 	School = 'University of Colorado at Boulder'
-    	Program = 'BA in Mathematics' + 'BA in Economics' + 'Minor in Statistics'
+    Program = 'BA in Mathematics' + 'BA in Economics' + 'Minor in Statistics'
 ```
 * Columbia University in the City of New York
 	* MA in Statistics
