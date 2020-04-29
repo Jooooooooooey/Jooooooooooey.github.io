@@ -26,9 +26,9 @@ permalink: /
 ## SKILLS
 ```python
 
-Python | JavaScript | Java | AngularJs | SQL | C++ | STATA | R | SAS |Tableau |
-Linux | Machine Learning | Deep Learning |Natural Language Processing |
-Statistical Modeling | Data Analysis | Data Visualization
+ Python | JavaScript | Java | AngularJs | SQL | C++ | STATA | R | SAS | Tableau |
+ Linux | Machine Learning | Deep Learning |Natural Language Processing |
+ Statistical Modeling | Data Analysis | Data Visualization
 
 ```
 ## Education
@@ -36,10 +36,10 @@ Statistical Modeling | Data Analysis | Data Visualization
 
  if (year in range(2017, 2019)):
      school = 'Columbia University in the City of New York'
-         program = 'MA in Statistics'
+     program = 'MA in Statistics'
  else if (year in range(2013, 2017)):
      school = 'University of Colorado at Boulder'
-         program = 'BA in Mathematics' + 'BA in Economics' + 'Minor in Statistics'
+     program = 'BA in Mathematics' + 'BA in Economics' + 'Minor in Statistics'
 
 ```
 
