@@ -25,13 +25,13 @@ permalink: /
 
 * Code highlight with Rouge
 
-## SKILLS
+# SKILLS
 ```python
 Python | JavaScript | Java | AngularJs | SQL | C++ | STATA | R | SAS |Tableau |
 Linux | Machine Learning | Deep Learning |Natural Language Processing |
 Statistical Modeling | Data Analysis | Data Visualization
 ```
-## Education
+# Education
 ```python
 if (year in range(2017, 2019)):
 	school = 'Columbia University in the City of New York'
@@ -48,12 +48,14 @@ else if (year in range(2013, 2017)):
 	* Minor in Statistics
 	* 2013 - 2017
 
-## Experience
+# Experience
 #### Qualcomm 
     position: Programmer Analyst 
     timeRange: April 2019 - Present
     location: San Diego, CA
     jobDescription: empty
+    
+
 #### Accathon Capital
 	position: Software Development Intern
     timeRange: September 2018 - December 2018
