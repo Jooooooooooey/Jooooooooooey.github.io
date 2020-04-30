@@ -8,7 +8,7 @@ footer: true
 title: "hhh"
 author: "Joey"
 encrypted_text: true
-permalink: /testtesttest
+permalink: /
 ---
 
 # HUIYU(JOEY) ZHANG
