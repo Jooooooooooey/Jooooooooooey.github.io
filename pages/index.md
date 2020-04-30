@@ -45,21 +45,17 @@ permalink: /
 
 ## Experience
 <div><span style="color:#ffc547; font-size:21px"> Qualcomm </span><span style="position:absolute; right:20px"> April 2019 - Present</span></div>
-<div><span style="font-size:19px; left:20px">Programmer Analyst</span><span style="position:absolute; right:20px">San Diego, CA</span></div>
+<div><span style="font-size:19px; left:60px">Programmer Analyst</span><span style="position:absolute; right:20px">San Diego, CA</span></div>
 * Designed and delivered a custom IP analysis software for attorneys and engineers based on aforementioned requirements using Java, TypeScript, JavaScript, Apache Solr, Angular, and SQL 
 * Performed data pre-processing and data mining, and implemented algorithms on patent claims to find correlations across claims and leveraged these results to give users a big picture of patent data utilizing data visualization
 * Built scraping tool using Python to scrape data from global patent offices and kept the system up to date due to frequent changes in patent office systems
 
-
-<span style="color:#ffc547; font-size:21px"> Accathon Capital </span>
-* position: Software Development Intern
-* timeRange: September 2018 - December 2018
-* location: New York, NY
-* jobDescription:
-	* Contributed to writing Python scripts to scrape data from LinkedIn, Hunter and Crunchbase by utilizing API calls and python packages (Numpy, Pandas, BeautifulSoup)
-	* Developed software tools to automate various internal processes and data migration
-	* Matched thousands of international tech startups with Chinese institutions by designing a matching algorithm
-	* Obtained valuable experience in handling complex computational and programming logic problems
+<div><span style="color:#ffc547; font-size:21px"> Accathon Capital </span><span style="position:absolute; right:20px"> September 2018 - December 2018</span></div>
+<div><span style="font-size:19px; left:50px">Software Development Intern</span><span style="position:absolute; right:20px">New York, NY</span></div>
+* Contributed to writing Python scripts to scrape data from LinkedIn, Hunter and Crunchbase by utilizing API calls and python packages (Numpy, Pandas, BeautifulSoup)
+* Developed software tools to automate various internal processes and data migration
+* Matched thousands of international tech startups with Chinese institutions by designing a matching algorithm
+* Obtained valuable experience in handling complex computational and programming logic problems
 
 <span style="color:#ffc547; font-size:21px"> Xiaomi Technology </span>
 * position: Software Engineer Intern
