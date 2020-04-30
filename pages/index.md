@@ -55,5 +55,4 @@ permalink: /
 * Classified over 700,000+ users’ feedbacks (in both Chinese and English) into hundreds of labels by applying various deep learning models such as CNN, RNN+Attention, and Fasttext
 * Achieved 81% of accuracy for the best model and 52% rate of coverage after ensembling all the models by voting
 
-[**NLP project (Github)**](https://github.com/Jooooooooooey/NLP-Classification)
 
