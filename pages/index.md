@@ -5,8 +5,8 @@ toc: false
 home_btn: true
 btn_text: true
 footer: true
-title: ""
-author: ""
+title: "HiThere?"
+author: "Jooey"
 encrypted_text: true
 permalink: /
 ---
@@ -34,7 +34,7 @@ permalink: /
 ```
 
 ## Experience
-<p style="border:solid">
+
 <div><span style="color:#ffc547; font-size:21px"> Qualcomm </span><span style="position:absolute; right:20px"> April 2019 - Present</span></div>
 <div><span style="font-size:19px">Programmer Analyst</span><span style="position:absolute; right:20px">San Diego, CA</span></div>
 * Designed and delivered a custom IP analysis software for attorneys and engineers based on aforementioned requirements using Java, TypeScript, JavaScript, Apache Solr, Angular, and SQL 
@@ -54,6 +54,6 @@ permalink: /
 * Performed data pre-processing, data mining, and text mining utilizing Python packages (Numpy, Pandas, NLTK)
 * Classified over 700,000+ users’ feedbacks (in both Chinese and English) into hundreds of labels by applying various deep learning models such as CNN, RNN+Attention, and Fasttext
 * Achieved 81% of accuracy for the best model and 52% rate of coverage after ensembling all the models by voting
-</p>
+
 [**NLP project (Github)**](https://github.com/Jooooooooooey/NLP-Classification)
 
