@@ -45,11 +45,10 @@ permalink: /
 
 ## Experience
 <div><span style="color:#ffc547; font-size:21px"> Qualcomm </span><span style="position:absolute; right:20px"> April 2019 - Present</span></div>
-<div><span style="font-size:19px">Programmer Analyst</span><span style="position:absolute; right:20px">San Diego, CA</span></div>
-* jobDescription:
-	* Designed and delivered a custom IP analysis software for attorneys and engineers based on aforementioned requirements using Java, TypeScript, JavaScript, Apache Solr, Angular, and SQL 
-	* Performed data pre-processing and data mining, and implemented algorithms on patent claims to find correlations across claims and leveraged these results to give users a big picture of patent data utilizing data visualization
-	* Built scraping tool using Python to scrape data from global patent offices and kept the system up to date due to frequent changes in patent office systems
+<div><span style="font-size:19px; left:20px">Programmer Analyst</span><span style="position:absolute; right:20px">San Diego, CA</span></div>
+* Designed and delivered a custom IP analysis software for attorneys and engineers based on aforementioned requirements using Java, TypeScript, JavaScript, Apache Solr, Angular, and SQL 
+* Performed data pre-processing and data mining, and implemented algorithms on patent claims to find correlations across claims and leveraged these results to give users a big picture of patent data utilizing data visualization
+* Built scraping tool using Python to scrape data from global patent offices and kept the system up to date due to frequent changes in patent office systems
 
 
 <span style="color:#ffc547; font-size:21px"> Accathon Capital </span>
