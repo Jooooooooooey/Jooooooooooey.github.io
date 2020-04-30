@@ -5,7 +5,7 @@ toc: false
 home_btn: true
 btn_text: true
 footer: true
-title: "HiThere?"
+title: "⊙▽⊙  ╮(￣▽￣)╭"
 author: "Jooey"
 encrypted_text: true
 permalink: /
