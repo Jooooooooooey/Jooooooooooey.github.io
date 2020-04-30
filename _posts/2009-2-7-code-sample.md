@@ -20,7 +20,9 @@ excerpt: "This is excerpt."
 * Implemented GBM, Xgboost, and Neural Network model, and tuned the model parameters by cross-validation; Performed image prediction, and carried out both model evaluation and selection by comparing PSNR
 
 ## About Super-Resolution
+* Super resolution is the process of upscaling and or improving the details within an image. Often a low resolution image is taken as an input and the same image is upscaled to a higher resolution, which is the output.
 
+![img-smpl]({{site.url}}{{site.baseurl}}{{site.assets_path}}/img/superresolution.png)
 
 ## Project Details
 * In this project, we created a classification engine for enhance the resolution of images. We have achieved three things in this project:
