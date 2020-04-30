@@ -1,164 +1,32 @@
 ---
-title: Sample Code - Quick Sort
 layout: post
-category: Sample
-date: 2019-2-4
+title: Image Super-Resolution
+author: Joey Zhang
+post_list: "date"
+toc: true
+home_btn: true
+btn_text: true
+footer: true
+maximize: true
+encrypted_text: true
+toc_level: 4
+category: Machine Learning
+date: 2018-11-07
+excerpt: "This is excerpt."
 ---
 
-## Quick sort in python
+## Summary
+* Contributed to three classification engines to enhance the resolution of images; Trained with 1500 pairs of images and tested with 1000 low-resolution images
+* Implemented GBM, Xgboost, and Neural Network model, and tuned the model parameters by cross-validation; Performed image prediction, and carried out both model evaluation and selection by comparing PSNR
 
-```python
-# Python program for implementation of Quicksort Sort 
-  
-# This function takes last element as pivot, places 
-# the pivot element at its correct position in sorted 
-# array, and places all smaller (smaller than pivot) 
-# to left of pivot and all greater elements to right 
-# of pivot 
-def partition(arr,low,high): 
-    i = ( low-1 )         # index of smaller element 
-    pivot = arr[high]     # pivot 
-  
-    for j in range(low , high): 
-  
-        # If current element is smaller than or 
-        # equal to pivot 
-        if   arr[j] <= pivot: 
-          
-            # increment index of smaller element 
-            i = i+1 
-            arr[i],arr[j] = arr[j],arr[i] 
-  
-    arr[i+1],arr[high] = arr[high],arr[i+1] 
-    return ( i+1 ) 
-  
-# The main function that implements QuickSort 
-# arr[] --> Array to be sorted, 
-# low  --> Starting index, 
-# high  --> Ending index 
-  
-# Function to do Quick sort 
-def quickSort(arr,low,high): 
-    if low < high: 
-  
-        # pi is partitioning index, arr[p] is now 
-        # at right place 
-        pi = partition(arr,low,high) 
-  
-        # Separately sort elements before 
-        # partition and after partition 
-        quickSort(arr, low, pi-1) 
-        quickSort(arr, pi+1, high) 
-  
-# Driver code to test above 
-arr = [10, 7, 8, 9, 1, 5] 
-n = len(arr) 
-quickSort(arr,0,n-1) 
-print ("Sorted array is:") 
-for i in range(n): 
-    print ("%d" %arr[i]), 
-  
-# This code is contributed by Mohit Kumra 
-```
-## Quick sort in haskell
+## About Super-Resolution
 
-```haskell
-quicksort :: ( Ord a ) = > [ a ] -> [ a ]
-quicksort [] = []
-quicksort ( x : xs ) =
-    let smallerSorted = quicksort [ a | a <- xs , a <= x ]
-        biggerSorted = quicksort [ a | a <- xs , a > x ]
-    in smallerSorted ++ [ x ] ++ biggerSorted
-```
 
-## Quick sort in scheme
+## Project Details
+* In this project, we created a classification engine for enhance the resolution of images. We have achieved three things in this project:
 
-```scheme
-(define (quicksort lst)
-  (cond
-    ((or (null? lst) ; empty list is sorted
-         (null? (cdr lst))) ; single-element list is sorted
-     lst)
-    (else
-      (let ((pivot (car lst)) ; Select the first element as the pivot
-            (rest (cdr lst)))
-        (append
-          (quicksort ; Recursively sort the list of smaller values
-            (filter (lambda (x) (< x pivot)) rest)) ; Select the smaller values
-          (list pivot) ; Add the pivot in the middle
-          (quicksort ; Recursively sort the list of larger values
-            (filter (lambda (x) (>= x pivot)) rest))))))) ; Select the larger and equal values
-```
+	1. Implemented the current practice as the baseline model.
+	2. Implemented an improvement to the current practice. In this part, we chose two different models as improvements: Xgboost and Neural Network.
+	3. Evaluated the performance gain of our proposed improvement against the baseline.
 
-## Quick sort in java
-
-```java
-package com.theme.rouge;
-
-public class MyQuickSort {
-	
-	private int array[];
-	private int length;
-
-	public void sort(int[] inputArr) {
-		
-		if (inputArr == null || inputArr.length == 0) {
-			return;
-		}
-		this.array = inputArr;
-		length = inputArr.length;
-		quickSort(0, length - 1);
-	}
-
-	private void quickSort(int lowerIndex, int higherIndex) {
-		
-		int i = lowerIndex;
-		int j = higherIndex;
-		// calculate pivot number, I am taking pivot as middle index number
-		int pivot = array[lowerIndex+(higherIndex-lowerIndex)/2];
-		// Divide into two arrays
-		while (i <= j) {
-			/**
-			 * In each iteration, we will identify a number from left side which 
-			 * is greater then the pivot value, and also we will identify a number 
-			 * from right side which is less then the pivot value. Once the search 
-			 * is done, then we exchange both numbers.
-			 */
-			while (array[i] < pivot) {
-				i++;
-			}
-			while (array[j] > pivot) {
-				j--;
-			}
-			if (i <= j) {
-				exchangeNumbers(i, j);
-				//move index to next position on both sides
-				i++;
-				j--;
-			}
-		}
-		// call quickSort() method recursively
-		if (lowerIndex < j)
-			quickSort(lowerIndex, j);
-		if (i < higherIndex)
-			quickSort(i, higherIndex);
-	}
-
-	private void exchangeNumbers(int i, int j) {
-		int temp = array[i];
-		array[i] = array[j];
-		array[j] = temp;
-	}
-	
-	public static void main(String a[]){
-		
-		MyQuickSort sorter = new MyQuickSort();
-	    int[] input = {24,2,45,20,56,75,2,56,99,53,12};
-	    sorter.sort(input);
-	    for(int i:input){
-	    	System.out.print(i);
-	    	System.out.print(" ");
-	    }
-	}
-}
-```
+* Specifically, in feature selection part, we implemented Laplace transformation to training pictures, in order to find the most representaive points in each picture and sampled them as our training data points. Then after building models using training data, through cross validation for each model (mentioned above), we got the best parameters for each model according to the cross validation error, then implemented each model with their best parameters on testing pictures. Finally, according to the PSNR value of each model, we decided which model is the best model in super resolution problem.
