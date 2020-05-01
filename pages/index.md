@@ -16,7 +16,7 @@ permalink: /
 ## SKILLS
 ```python
 
- Python | JavaScript | Java | AngularJs | SQL | C++ | STATA | R | Apache Solr | SAS | 
+ Python | TypeScript | AngularJs | SQL | C++ | STATA | R | Apache Solr | SAS | 
  Tableau | Linux | CSS | HTML | Machine Learning | Deep Learning |
  Natural Language Processing | Statistical Modeling | Data Analysis | Data Visualization
 
