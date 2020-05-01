@@ -11,7 +11,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
 email: "hz2497@columbia.edu"
-github: "Jooooooooooey"
+github: "Jooooooooooey?tab=repositories"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 statement: "MAY THE FORCE BE WITH YOU"
