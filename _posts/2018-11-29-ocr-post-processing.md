@@ -23,9 +23,8 @@ excerpt: "This is excerpt."
 ## About OCR
 * OCR is a technology that enables you to convert different types of documents (e.g., scanned documents, PDF files or images captured by a digital camera) into editable and searchable data. An OCR system consists of a pre-processing module, a word recognition module and a post-processing module, which are pipelined together to retrieve a relevant scanned document.
 
-![img-smpl]({{site.url}}{{site.baseurl}}{{site.assets_path}}/img/intro.png)
 ![img-smpl]({{site.url}}{{site.baseurl}}{{site.assets_path}}/img/ocr_flowchart.png)
 
-## Performance
+## Project Performance
 ![img-smpl]({{site.url}}{{site.baseurl}}{{site.assets_path}}/img/PerformancePic.png)
 
